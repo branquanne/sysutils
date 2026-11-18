@@ -2,9 +2,9 @@
 *
 
 # Allow directories
-!ou1/
-!ou2/
-!ou3/
+!mexec/
+!mdu/
+!mmake/
 
 # Allow only specific files and types
 !*.c
