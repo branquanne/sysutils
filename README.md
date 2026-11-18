@@ -1,4 +1,4 @@
-# SNP
+# sysutils
 
 This repository contains three small C/Unix projects:
 
